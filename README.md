@@ -1,3 +1,3 @@
 # devops-essentials-sample-app
 
-This is a simple sample application intended to be used alongside the labs for DevOps Essentials.
+This is a simple sample application using Jenkins pipelines and gradle for commiting to staggin server and then to production.
